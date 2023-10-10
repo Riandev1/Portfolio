@@ -30,7 +30,7 @@ function AboutCard() {
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Acredite nos seus sonhos, foi Deus quem criou!"{" "}
+            "Acredite nos seus       sonhos, foi Deus quem criou!"{" "}
           </p>
           <footer className="blockquote-footer">Rian</footer>
         </blockquote>
